@@ -1,0 +1,3 @@
+<GraphSettings Title="Battery Time To Empty" YAxisLabel="Time (minutes)" GraphType="Timestamp" RollMode="False" ShowLegend="False" AxesRange="-60,9999999999.9995,0,10000000000.0005" HorizontalAutoscaleIndex="-1" VerticalAutoscaleIndex="2147483647">
+  <Trace Name="Battery Time To Empty" Color="#FFFFFF00" BlockSize="256" MaxDataPoints="24000" />
+</GraphSettings>

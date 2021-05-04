@@ -1,0 +1,5 @@
+<GraphSettings Title="Euler Angles" YAxisLabel="Angle (°)" GraphType="Timestamp" RollMode="False" ShowLegend="True" AxesRange="-10,-9.85646057128906,0,116.074928283691" HorizontalAutoscaleIndex="-1" VerticalAutoscaleIndex="2147483647">
+  <Trace Name="Roll" Color="#FFFF1818" BlockSize="256" MaxDataPoints="24000" />
+  <Trace Name="Pitch" Color="#FF18FF18" BlockSize="256" MaxDataPoints="24000" />
+  <Trace Name="Yaw" Color="#FF1818FF" BlockSize="256" MaxDataPoints="24000" />
+</GraphSettings>

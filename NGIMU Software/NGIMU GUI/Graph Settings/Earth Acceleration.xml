@@ -1,0 +1,5 @@
+<GraphSettings Title="Earth Acceleration" YAxisLabel="Acceleration (g)" GraphType="Timestamp" RollMode="False" ShowLegend="True" AxesRange="-10,-1,0,1" HorizontalAutoscaleIndex="-1" VerticalAutoscaleIndex="2147483647">
+  <Trace Name="X" Color="#FFFF1818" BlockSize="256" MaxDataPoints="24000" />
+  <Trace Name="Y" Color="#FF18FF18" BlockSize="256" MaxDataPoints="24000" />
+  <Trace Name="Z" Color="#FF1818FF" BlockSize="256" MaxDataPoints="24000" />
+</GraphSettings>
